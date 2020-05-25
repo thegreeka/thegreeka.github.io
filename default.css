@@ -1,25 +1,35 @@
-h1{
-    color: red;
-    font-size: 18px;
-    padding: 20px;
-}
+<!DOCTYPE HTML? 
 
-ul{
-    list-style-type: square;
-}
+<html>
 
-a:link{
-    color: green;
-}
+<head>
+    <title>May 20, 2020</title>
+    <meta name ="keywords"content = "class, puppy, bad hair">
+	<link rel="stylesheet" type="text/css" href="default.css">
 
-a:visited{
-    color:red;
-}
+</head>
 
-p{
-    font-family: "Ariel", "Helvetica", "sans-serif"
-}
+<body>
 
-#firstH{
-    position: absolute; top: 100px; left: 300px;
-}
+	<div if="firstH">
+	<h1>this is a header 1 </h1>
+</div>
+
+	<h5>this is a header 5</h5>
+
+	<p>this is my <i>default</i> page.</p>
+	<p>This demo started off <b>badly</b>. <br> Now, everyone thinks this is harder than it is.</p>
+
+	<ul>
+		<li>tarheels</li>
+		<li>Steelers</li>
+		<li>Corgi</li>
+	</ul>
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/%ED%8B%B0%EB%AA%A8%EC%8B%9C_%EC%83%AC%EB%9D%BC%EB%A9%94_%28Timothee_Chalamet%29_%27%EB%8D%94_%ED%82%B9_%ED%97%A8%EB%A6%AC_5%EC%84%B8%27_04.png" alt="Timothee Chalamet" width="150" height="200">
+
+	<a href="https://www.nytimes.com"> <br> <br> NY Times</a>
+
+</body>
+
+</html>
