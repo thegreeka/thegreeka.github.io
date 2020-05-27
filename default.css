@@ -84,6 +84,10 @@ body {
 
 }
 
+#mainTitle{
+    font-family: "Didot", serif;
+    font-size: 35px;
+}
 
 
 
@@ -111,7 +115,7 @@ body {
 #copyright{
     position: relative;
     margin-top: 450px;
-    font-size: 12;
+    font-size: 16;
     background: none;
     float: right;
 }
@@ -165,8 +169,8 @@ img {
 
 h1{
     color: rgb(141, 51, 29);
-    font-size: 25px;
-    padding: 20px;
+    font-size: 40px;
+    padding: 14px;
     font-family: "Gill Sans", sans-serif;
     font-style: normal;
 
